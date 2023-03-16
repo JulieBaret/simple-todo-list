@@ -1,0 +1,4 @@
+.list-container {
+    text-align: left;
+    @apply w-80;
+}
