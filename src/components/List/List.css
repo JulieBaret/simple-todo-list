@@ -1,4 +1,4 @@
 .list-container {
     text-align: left;
-    @apply w-80;
+    @apply w-4/5 md:w-3/6;
 }
